@@ -1,0 +1,1175 @@
+fileFormatVersion: 2
+guid: ff3f99dd8b7891f40b782236a90f4816
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic Spells_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 559
+        width: 477
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5db65aecd930f4981192fffe4cb4b5
+      internalID: 1219705220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 597
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13bcb0ecdc1f704392ddb96109ac177
+      internalID: 696948192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 600
+        width: 72
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8182cc3bdea0b43418bd61567400ef64
+      internalID: 1979042007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 604
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487a152c72ac9e44f98cae36804e15db
+      internalID: 570519872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 603
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b69135b072c4645b03cbd6fc8a9384
+      internalID: -699246433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_5
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 599
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156abd3e97c8bb041b28751b2b56196d
+      internalID: 1894865619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_end_3
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 216
+        width: 426
+        height: 4
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4f0f1dfc318c54aa6c22dffb8da6a6
+      internalID: -853707781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_end_4
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 208
+        width: 417
+        height: 3
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b5405fd9629fa449cbda16b1a63e71
+      internalID: -828643822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_end_5
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 200
+        width: 421
+        height: 3
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64fa4059dbbcd94d82028a77c253fa3
+      internalID: 1490907149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_end_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 192
+        width: 422
+        height: 3
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551cb6d48df83c144bc558460fe1ab8a
+      internalID: 1567387197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_1
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 614
+        width: 6
+        height: 7
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c78bc7bbbcc19f48a659f90bfbba162
+      internalID: 398244243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_2
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 615
+        width: 5
+        height: 4
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896160d62dd026e4bb05b01f94680b5e
+      internalID: 1784856268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 614
+        width: 9
+        height: 9
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8132c547c064a95489106c2ea8e3f98d
+      internalID: -354776442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_4
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 614
+        width: 16
+        height: 12
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10652944f9052824ab7418eeb155a70d
+      internalID: 816714763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_5
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 607
+        width: 26
+        height: 18
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcf125ce0f9a9047a7395dd20fe3ecd
+      internalID: 1114242264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 602
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0935d2347deb547946f16315d941e1
+      internalID: 64421066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 606
+        width: 35
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8871e4f278f94024e87138539312b01f
+      internalID: -277862288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_6
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 574
+        width: 50
+        height: 28
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87d9c664b8846a42a1670f1de9791bf
+      internalID: 2136139317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_7
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 565
+        width: 52
+        height: 39
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0540e059a8a2b498071f798862224a
+      internalID: 1931858245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_8
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 557
+        width: 64
+        height: 48
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88edb87cf907baa44ba67dcc5034d9f1
+      internalID: 16220342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 549
+        width: 76
+        height: 56
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034e575a251184441b44ee99745b4f45
+      internalID: 2080365896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_10
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 550
+        width: 77
+        height: 55
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60f07ecb501fc14b92a7c40260c2e0f
+      internalID: 470788520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 519
+        width: 477
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b176c0cdbeb3f0845929ccd61b4da7fa
+      internalID: 1692802124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_11
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 480
+        width: 104
+        height: 53
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c437c0f9bc0c1c469be0949a878a376
+      internalID: 316864471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_12
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 485
+        width: 134
+        height: 38
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68a487f0c0c9494bbe02d9ff71b931d
+      internalID: 895383241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_13
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 489
+        width: 152
+        height: 39
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0716f00058e24c84294e90920f5f55d8
+      internalID: 1824133943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 479
+        width: 477
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acd8949c806a9f48beab29c0cb7afb8
+      internalID: -1373358889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 439
+        width: 477
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0547685eca2d174d857076c1e3c6c98
+      internalID: -453683403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_14
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 416
+        width: 170
+        height: 42
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e76f7fcae2d5ba4f8fe21a9a5bff780
+      internalID: 1448328496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_15
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 417
+        width: 224
+        height: 42
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d253738bf9b0274582626f91e018ffd
+      internalID: -619477584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_31
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 347
+        width: 476
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21360aa88805d2a48808ba68d938bad8
+      internalID: 17604183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 361
+        width: 332
+        height: 42
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4acdc2966a9b64ba3a4945a7a3cd15
+      internalID: 746013516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 262
+        width: 476
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6595552aab37487418a5b5c0e8c98c13
+      internalID: 11980831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_start_17
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 304
+        width: 440
+        height: 42
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7536fd86bd31904438f37cef9fef46c7
+      internalID: -422451922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_loop
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 265
+        width: 438
+        height: 19
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d80446c9dcad184aa8d3dc1a39f185f
+      internalID: -79463398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 172
+        width: 476
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be8f9918cba39b43a10c745eceb2b2a
+      internalID: 1434459940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_end_1
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 236
+        width: 436
+        height: 9
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe64a7e5005673c44b7d00e8056cfb73
+      internalID: -1977306617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire spells_end_2
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 223
+        width: 430
+        height: 5
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eb91c09aceabe41ae5cbc13ec7231e
+      internalID: -500512038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 83
+        width: 476
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cf8e9451cc1b44fa6e3759f13731e0
+      internalID: -515458803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_96
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 476
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42db88ea2fb3f3545a59b732c4347c4c
+      internalID: -608943357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 598
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9419160d4a188549b936d6e13d66a38
+      internalID: -1053981306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic Spells_40
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 593
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b879aba5e6bc4fb46a9b8207c81d4c53
+      internalID: 2012622275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Magic Spells_0: 1219705220
+      Magic Spells_1: 696948192
+      Magic Spells_100: -1137260034
+      Magic Spells_101: -1281744983
+      Magic Spells_102: 1770015586
+      Magic Spells_103: -117153974
+      Magic Spells_104: 980172136
+      Magic Spells_105: 417425513
+      Magic Spells_106: 919757513
+      Magic Spells_107: -82270786
+      Magic Spells_108: 1838584209
+      Magic Spells_109: -1569469687
+      Magic Spells_110: -1860203306
+      Magic Spells_111: 1915470245
+      Magic Spells_112: -908126557
+      Magic Spells_113: 827516993
+      Magic Spells_15: 64421066
+      Magic Spells_16: -277862288
+      Magic Spells_17: -1053981306
+      Magic Spells_2: 1979042007
+      Magic Spells_23: 1692802124
+      Magic Spells_27: -1373358889
+      Magic Spells_28: -453683403
+      Magic Spells_3: 570519872
+      Magic Spells_31: 17604183
+      Magic Spells_33: 11980831
+      Magic Spells_36: 1434459940
+      Magic Spells_39: -515458803
+      Magic Spells_4: -699246433
+      Magic Spells_40: 2012622275
+      Magic Spells_41: 1519795613
+      Magic Spells_42: 1546616406
+      Magic Spells_43: -1172096036
+      Magic Spells_44: 1914221429
+      Magic Spells_45: 1524080236
+      Magic Spells_46: -1385140663
+      Magic Spells_47: 186776631
+      Magic Spells_48: 1636775333
+      Magic Spells_49: 1494381374
+      Magic Spells_5: 1894865619
+      Magic Spells_50: -2111304032
+      Magic Spells_51: -1007627344
+      Magic Spells_52: -1675135354
+      Magic Spells_53: -1818174019
+      Magic Spells_54: 1687379643
+      Magic Spells_55: 1903702109
+      Magic Spells_56: -1338799131
+      Magic Spells_57: 993184397
+      Magic Spells_58: -553040826
+      Magic Spells_59: -849957880
+      Magic Spells_60: 1991684393
+      Magic Spells_61: 770461678
+      Magic Spells_62: -2086428444
+      Magic Spells_63: -2081903755
+      Magic Spells_64: -740176642
+      Magic Spells_65: -1748180523
+      Magic Spells_66: 679228473
+      Magic Spells_67: 585510431
+      Magic Spells_68: -1346311684
+      Magic Spells_69: 1716781013
+      Magic Spells_70: -1143075170
+      Magic Spells_71: -138142885
+      Magic Spells_72: 516311199
+      Magic Spells_73: -589872896
+      Magic Spells_74: -1093405769
+      Magic Spells_75: -2077288957
+      Magic Spells_76: -742844015
+      Magic Spells_77: -410070721
+      Magic Spells_78: 626254519
+      Magic Spells_79: -1517360608
+      Magic Spells_80: 856694792
+      Magic Spells_81: -1938023210
+      Magic Spells_82: 851373405
+      Magic Spells_83: 1906739288
+      Magic Spells_84: 4962196
+      Magic Spells_85: 2087699403
+      Magic Spells_86: 1317260162
+      Magic Spells_87: -1396697377
+      Magic Spells_88: -267546978
+      Magic Spells_89: 1692109570
+      Magic Spells_90: 1053934446
+      Magic Spells_91: 1140560475
+      Magic Spells_92: 1485516551
+      Magic Spells_93: -750539162
+      Magic Spells_94: -343804581
+      Magic Spells_95: -1768879457
+      Magic Spells_96: -608943357
+      Magic Spells_97: 692109253
+      Magic Spells_98: -893631215
+      Magic Spells_99: 886076946
+      fire spells_end_1: -1977306617
+      fire spells_end_2: -500512038
+      fire spells_end_3: -853707781
+      fire spells_end_4: -828643822
+      fire spells_end_5: 1490907149
+      fire spells_end_6: 1567387197
+      fire spells_loop: -79463398
+      fire spells_start_1: 398244243
+      fire spells_start_10: 470788520
+      fire spells_start_11: 316864471
+      fire spells_start_12: 895383241
+      fire spells_start_13: 1824133943
+      fire spells_start_14: 1448328496
+      fire spells_start_15: -619477584
+      fire spells_start_16: 746013516
+      fire spells_start_17: -422451922
+      fire spells_start_2: 1784856268
+      fire spells_start_3: -354776442
+      fire spells_start_4: 816714763
+      fire spells_start_5: 1114242264
+      fire spells_start_6: 2136139317
+      fire spells_start_7: 1931858245
+      fire spells_start_8: 16220342
+      fire spells_start_9: 2080365896
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
